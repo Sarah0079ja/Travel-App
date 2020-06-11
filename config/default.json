@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Travel:Travel007@travel-users-expma.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "Fh_myJwtSecret"
+}
